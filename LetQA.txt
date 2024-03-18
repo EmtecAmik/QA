@@ -1,0 +1,8 @@
+/html/body/div[6]/header/div/div/div/div[1]/input
+
+
+
+//*[@id="global-nav-typeahead"]/input
+
+
+толи я скопировал? подскажите что нучно было точно в этом задании сделать?
